@@ -1,0 +1,130 @@
+Fabric A (orange) [191,157,061]
+Fabric B (pink) [216,091,160]
+Fabric C (purple) [168,094,163]
+Fabric D (green) [148,205,087]
+Fabric E (yellow) [206,204,068]
+Fabric F (grape) [119,091,166]
+Fabric G (brown) [151,113,069]
+Fabric H (light blue) [106,194,208]
+
+6x5
+
+#1st row 1st block
+[A/C,D\B,
+ A\B,A/B]
+#1st row 2nd block
+[D\B,A\B,A/B,
+ A\B,F\B,A\B,
+ A/B,A\B,A\B]
+#1st row 3rd block
+[E/C,A\C,A/C,E/C,
+ A/C,E/C,A/F,E/C,
+ A\C,E/F,A/F,E\F,
+ A/F,A\C,E/C,E/C]
+#1st row 4th block
+[D/C,D\C,
+ D/C,D/C]
+#1st row 5th block
+[A/C,A/C,A\C,
+ A\C,A\C,A\C,
+ E\C,A/C,A\C]
+#1st row 6th block
+[B\F,B\F,B\F,
+ C\F,B\F,B\F,
+ B\F,B\F,B\F]
+
+#2nd row
+[E\B]
+
+[E\C,E\F,A\F,
+ A/C,A\F,E/C,
+ E\F,E\C,A\F]
+
+[A/C,E\C,A/C,
+ A\C,D\C,A\C,
+ A\C,D\C,A\C]
+
+[G/F,A/F,A/F,
+ A\F,A/F,A/F,
+ A/F,A/F,A/F]
+
+[H/E,D/A,
+ D\A,H\E]
+
+[G/C,G\C,G/F,
+ G\C,A\C,G\C,
+ A/C,G/C,G/C]
+
+#3rd row
+[A\H,E\F,A/F,G\F,
+ G\F,A/F,G\H,A\F,
+ G/C,G/F,G\F,A\F,
+ G/F,A\F,A/F,G\F]
+
+[A\C,A\F,A\C,
+ A\F,A\C,A\F,
+ A\C,A\F,A\C]
+
+[D\C,D\C,
+ C\D,D/C]
+
+[E/H,A/C,A/C,E\H,
+ B/H,A/H,C\H,H\H,
+ E\H,A/B,C/B,H\F,
+ E\H,A/B,E\H,A/B]
+
+[D\F,D/F,
+ D/C,E/F]
+
+[F]
+
+#4th row
+[D\B,A\C,
+ E/B,D\B]
+
+[F/H,D\B,
+ B\D,H/F]
+
+[G\F,G/C,D\C,E\C,
+ C/B,E\B,D/C,A/B,
+ F\B,G\B,A\C,A/F,
+ D/B,G\C,A/F,D\H]
+
+[D/H]
+
+[G\C,G\C,G\C,
+ G\C,A/F,G\C,
+ G\C,A/C,A/C]
+
+[D\F,E\C,E\F,
+ D\F,D\C,D\C,
+ D/F,D\C,D\F]
+
+#5th row
+[D/B]
+
+[D\H,G\F,A\F,
+ D\F,E\F,G\F,
+ E/B,E\F,A\F]
+
+[G/F]
+
+[G/F,A/F,A/F,
+ A\F,A/F,A/F,
+ A/F,A/F,A/F]
+
+[D\B]
+
+[E/H,G\H,
+  B, A/F]
+
+
+
+
+
+
+
+
+
+
+

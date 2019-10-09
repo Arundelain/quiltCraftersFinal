@@ -1,0 +1,1 @@
+[R/S, C-S, S\R, N/A, A-I, A\N, C|S, M, S|C, A|I, M, I|A, R\S, S-C, S/R, N\A, I-A, A/N, N/A, A-I, A\N, R/S, C-S, S\R, A|I, M, I|A, C|S, M, S|C, N\A, I-A, A/N, R\S, S-C, S/R]

@@ -1,0 +1,74 @@
+#Palette list here:
+
+Fabric A (Blue Jay) [113, 184, 255]
+
+Fabric B (Cornflower) [167, 209, 255]
+
+Fabric C (Slate) [92, 131, 188]
+
+Fabric D (Crimson) [116, 28, 70]
+
+Fabric E (Red) [220, 0, 23]
+
+Fabric F (Red) [220, 0, 23]
+
+Fabric G (Citrus) [250, 237, 59]
+
+Fabric H (Grellow) [241, 178, 0]
+
+Fabric I (Canary) [254, 211, 52]
+
+Fabric J (Palm) [39, 69, 18]
+
+Fabric K (Parrot) [132, 255, 56]
+
+Fabric L (Palm) [39, 69, 18]
+
+
+
+#How many blocks wide and high here:
+
+3x4
+
+
+
+
+[A\K]
+
+[B, J|E, A|H,
+L, L|A, H,
+E|B, L|E, B/B]
+
+[C/J]
+
+
+[A|J, L|I, B|G,
+G, E, L|J,
+I-C, A/I, L|F]
+
+[G, G, C\I,
+K, E|B, B,
+K-G, G|K, J|F]
+
+[G/A, E/J, K\F,
+K-I, K|H, G-E,
+K/J, A/H, G/H]
+
+
+[L-K,I|A,
+E\I, C-F]
+
+[C\I, I-C, L,
+K, I, D-G,
+E-H, A|E, A/A]
+
+[A]
+
+
+[G\J]
+
+[B/C]
+
+[K, C-L, D-E,
+D/L, C, F\F,
+G/D, B|J, H\L]

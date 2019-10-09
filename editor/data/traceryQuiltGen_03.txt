@@ -1,0 +1,23 @@
+#Palette list here:
+Fabric A (Candy Blue) [131, 198, 239]
+Fabric B (Periwinkle) [146, 198, 255]
+Fabric C (Regal) [3, 10, 96]
+Fabric D (Red) [220, 0, 23]
+Fabric E (Tomato) [206, 0, 10]
+Fabric F (Brick) [77, 12, 30]
+Fabric G (Citrus) [250, 237, 59]
+Fabric H (Meringue) [254, 250, 196]
+Fabric I (Citrus) [250, 237, 59]
+Fabric J (Juniper) [22, 69, 45]
+Fabric K (Pesto) [14, 82, 25]
+Fabric L (Cabbage) [167, 252, 95]
+
+#How many blocks wide and high here: 
+a 1x2 
+
+
+[K|K]
+
+
+[D|G,H-L, 
+G/E, B/F]

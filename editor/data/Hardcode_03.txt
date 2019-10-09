@@ -1,0 +1,40 @@
+#Palette list here:
+Fabric A (Candy Blue) [131, 198, 239]
+Fabric B (Lagoon) [84, 255, 249]
+Fabric C (Denim) [128, 192, 250]
+Fabric D (Primrose) [252, 187, 221]
+Fabric E (Coral) [255, 0, 32]
+Fabric F (Ballerina) [234, 161, 253]
+Fabric G (Mustard) [251, 227, 179]
+Fabric H (Grellow) [241, 178, 0]
+Fabric I (Yarrow) [226, 180, 92]
+Fabric J (Spruce) [12, 72, 56]
+Fabric K (Breakers) [68, 244, 196]
+Fabric L (Herb) [151, 171, 113]
+
+#How many blocks wide and high here: 
+2x3 
+
+
+[E\E,F, 
+G/K, J\F]
+
+[D-K]
+
+
+[B-G, E/D, G, 
+C-B, B|F, G/B, 
+B-G, H\B, A/A]
+
+[L/C, J, F/F, 
+B/I, G-C, B|L, 
+L|F, E\E, G-D]
+
+
+[A/D, J-F, J/I, 
+B\D, A/G, L\G, 
+K/L, D/L, C-H]
+
+[L|E, J|E, L-F, 
+K-I, D\L, F\I, 
+E, F-G, F|F]

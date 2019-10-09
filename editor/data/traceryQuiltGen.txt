@@ -1,0 +1,37 @@
+#Palette list here:
+Fabric A (Lapis) [86, 133, 255]
+Fabric B (Hyacinth)[78, 124, 255]
+Fabric C (Periwinkle) [146, 198, 255]
+Fabric D (Burgundy) [62, 14, 37]
+Fabric E (Poppy) [149, 0, 0]
+Fabric F (Garnet) [81, 19, 76]
+Fabric G (Grellow) [241, 178, 0]
+Fabric H (Lemon) [253, 229, 125]
+Fabric I (Citrus) [250, 237, 59]
+Fabric J (Hunter Green) [13, 30, 13]
+Fabric K (Basil) [37, 93, 18]
+Fabric L (Spruce) [12, 72, 56]
+
+#How many blocks wide and high here: 
+3x2 
+
+
+[E|D,F\H, 
+H|A, K|C]
+
+[K]
+
+[G/C]
+
+
+[K-H, G\D, A|I, 
+K|D, C, E, 
+C|D, K\L, K/H]
+
+[K|G, D/H, B/J, 
+E, G, G\F, 
+K-E, E, D|H]
+
+[K|H, E\K, A/L, 
+B, E/F, L\J, 
+H, D\D, C\G]

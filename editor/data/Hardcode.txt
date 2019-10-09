@@ -1,0 +1,73 @@
+#Palette list here:
+Fabric A (Periwinkle) [146, 198, 255]
+Fabric B (Hyacinth) [78, 124, 255]
+Fabric C (Cornflower) [167, 209, 255]
+Fabric D (Rich Red) [144, 0, 41]
+Fabric E (Chinese Red) [155, 0, 22]
+Fabric F (Crimson) [116, 28, 70]
+Fabric G (Canary) [254, 211, 52]
+Fabric H (Maize) [254, 246, 181]
+Fabric I (Corn Yellow) [253, 199, 55]
+Fabric J (Basil) [37, 93, 18]
+Fabric K (Evergreen) [29, 56, 25]
+Fabric L (Peridot) [143, 255, 55]
+
+#How many blocks wide and high here: 
+4x4 
+
+
+[H\F]
+
+[I-B]
+
+[I\L,D/G, 
+D, B/F]
+
+[H/D, B\L, J, 
+F, F\L, K-E, 
+C|I, H, G|C]
+
+
+[A\H,E/L, 
+C/D, G\I]
+
+[H|A]
+
+[E|H,B, 
+E\D, D|B]
+
+[D-K, D\G, L/F, 
+C, B\B, G|A, 
+A-J, E-I, C/K]
+
+
+[E\K, K|L, A|H, 
+A\B, J-J, B-J, 
+H, I, A]
+
+[F, A|D, B-F, 
+J|A, H/A, F/H, 
+I|G, L/H, L|D]
+
+[E|H, C\L, E\E, 
+C-E, F-C, L|A, 
+J/I, B, G|H]
+
+[E-F]
+
+
+[I/A, E-A, J, 
+L|G, F|J, C\E, 
+G\F, D-D, J/A]
+
+[D\J, D|A, A\I, 
+C, F/A, F/B, 
+C\G, I|E, F]
+
+[F, J|C, B, 
+F/A, I/B, I, 
+C/D, F|E, D|C]
+
+[A-L, H-G, J/L, 
+E|A, D\I, I-I, 
+J\F, G/F, G\G]

@@ -1,0 +1,32 @@
+#Palette list here:
+Fabric A (Dresden Blue) [152, 200, 245]
+Fabric B (Blue Jay) [113, 184, 255]
+Fabric C (Deep Blue) [14, 47, 231]
+Fabric D (Tomato) [206, 0, 10]
+Fabric E (Brick) [77, 12, 30]
+Fabric F (Poppy) [149, 0, 0]
+Fabric G (Canary) [254, 211, 52]
+Fabric H (Grellow) [241, 178, 0]
+Fabric I (Maize) [254, 246, 181]
+Fabric J (Parrot) [132, 255, 56]
+Fabric K (Juniper) [22, 69, 45]
+Fabric L (Peridot) [143, 255, 55]
+
+#How many blocks wide and high here: 
+2x2 
+
+
+[A|F,F, 
+G\H, D\H]
+
+[C,A/G, 
+B\F, B\J]
+
+
+[A-E, I\J, H\L, 
+L, F\K, I|L, 
+C-H, I, J|L]
+
+[B\L, K|E, B, 
+H-I, D-H, K, 
+I/B, E, H]

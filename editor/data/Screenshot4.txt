@@ -1,0 +1,20 @@
+#Palette list here:
+Fabric A (Deep Blue) [14, 47, 231]
+Fabric B (Candy Blue) [131, 198, 239]
+Fabric C (Cornflower) [167, 209, 255]
+Fabric D (Chinese Red) [155, 0, 22]
+Fabric E (Cardinal) [189, 0, 51]
+Fabric F (Wine) [102, 0, 20]
+Fabric G (Maize) [254, 246, 181]
+Fabric H (Citrus) [250, 237, 59]
+Fabric I (Buttercup) [250, 231, 130]
+Fabric J (Evergreen) [29, 56, 25]
+Fabric K (Juniper) [22, 69, 45]
+Fabric L (Peridot) [143, 255, 55]
+
+#How many blocks wide and high here: 
+1x1 
+
+
+[B\G,F\I, 
+D-B, L/I]

@@ -1,0 +1,59 @@
+#Add your palette list here:
+
+Fabric R (rose) [185, 119, 128]
+
+Fabric S (shell) [236, 185, 189]
+
+Fabric P (pink) [245, 229, 231]
+
+Fabric N (nautical) [48, 121, 177]
+
+Fabric B (blue) [135, 187, 230]
+
+Fabric I (ice blue) [190, 216, 236]
+
+Fabric C (clover) [114, 173, 147]
+
+Fabric G (green) [80, 131, 114]
+
+Fabric M (mint) [201, 226, 214]
+
+Fabric T (turquoise) [99, 177, 188]
+
+Fabric O (ocean) [155, 212, 221]
+
+Fabric W (water color) [225, 241, 239]
+
+
+
+#How many blocks wide here:
+
+6x8
+
+
+
+#block definition here:
+
+[M, M/C, T\M, M/C, C, T, M\N, N/G, N\W]		[M/O, C\M, M, T\O, C, C\M, W/O, W, W/M]		[W, W/C, N\C, W/C, C, N/G, C\N, N/G, G/W]
+[C/N, C\W, W, G\N, C, C\W, W\G, G\N, N/C] 	[M, M/C, T\M, M/C, C, T, M\N, N/G, N\W]		[M/O, C\M, M, T\O, C, C\M, W/O, W, W/M]
+
+[M/G, G, N/C, M\T, T, N\W, M, M\T, N/M]		[C\O, W/O, O\M, W, T, T/M, M\W, T/M, M]		[C/N, N\G, G\W, W\C, C, N\G, W, W\C, N/C]	
+[W/G, G/N, N\C, G/N, C, C/W, C\N, C/W, W]	[M/G, G, N/C, M\T, T, N\W, M, M\T, N/M]		[C\O, W/O, O\M, W, T, T/M, M\W, T/M, M]
+
+[M, M/C, T\M, M/C, C, T, M\N, N/G, N\W]		[M/O, C\M, M, T\O, C, C\M, W/O, W, W/M]		[W, W/C, N\C, W/C, C, N/G, C\N, N/G, G/W]	
+[C/N, C\W, W, G\N, C, C\W, W\G, G\N, N/C]	[M, M/C, T\M, M/C, C, T, M\N, N/G, N\W]		[M/O, C\M, M, T\O, C, C\M, W/O, W, W/M]
+
+[M/G, G, N/C, M\T, T, N\W, M, M\T, N/M]		[C\O, W/O, O\M, W, T, T/M, M\W, T/M, M]		[C/N, N\G, G\W, W\C, C, N\G, W, W\C, N/C]	
+[W/G, G/N, N\C, G/N, C, C/W, C\N, C/W, W]	[M/G, G, N/C, M\T, T, N\W, M, M\T, N/M]		[C\O, W/O, O\M, W, T, T/M, M\W, T/M, M]
+
+[M, M/C, T\M, M/C, C, T, M\N, N/G, N\W]		[M/O, C\M, M, T\O, C, C\M, W/O, W, W/M]		[W, W/C, N\C, W/C, C, N/G, C\N, N/G, G/W]	
+[C/N, C\W, W, G\N, C, C\W, W\G, G\N, N/C]	[M, M/C, T\M, M/C, C, T, M\N, N/G, N\W]		[M/O, C\M, M, T\O, C, C\M, W/O, W, W/M]
+
+[M/G, G, N/C, M\T, T, N\W, M, M\T, N/M]		[C\O, W/O, O\M, W, T, T/M, M\W, T/M, M]		[C/N, N\G, G\W, W\C, C, N\G, W, W\C, N/C]	
+[W/G, G/N, N\C, G/N, C, C/W, C\N, C/W, W]	[M/G, G, N/C, M\T, T, N\W, M, M\T, N/M]		[C\O, W/O, O\M, W, T, T/M, M\W, T/M, M]
+
+[M, M/C, T\M, M/C, C, T, M\N, N/G, N\W]		[M/O, C\M, M, T\O, C, C\M, W/O, W, W/M]		[W, W/C, N\C, W/C, C, N/G, C\N, N/G, G/W]	
+[C/N, C\W, W, G\N, C, C\W, W\G, G\N, N/C]	[M, M/C, T\M, M/C, C, T, M\N, N/G, N\W]		[M/O, C\M, M, T\O, C, C\M, W/O, W, W/M]
+
+[M/G, G, N/C, M\T, T, N\W, M, M\T, N/M]		[C\O, W/O, O\M, W, T, T/M, M\W, T/M, M]		[C/N, N\G, G\W, W\C, C, N\G, W, W\C, N/C]	
+[W/G, G/N, N\C, G/N, C, C/W, C\N, C/W, W]	[M/G, G, N/C, M\T, T, N\W, M, M\T, N/M]		[C\O, W/O, O\M, W, T, T/M, M\W, T/M, M]

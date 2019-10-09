@@ -1,0 +1,64 @@
+{
+	"origin": [
+		"#output_Text#"
+	],
+	"setBluePalette": [
+		"(Regal) '3_10_96'",
+		"(Midnight) '21_15_69'",
+		"(Deep Blue) '14_47_231'",
+		"(Lapis) '86_133_255'",
+		"(Hyacinth) '78_124_255'",
+		"(Dresden Blue) '152_200_245'",
+		"(Slate) '92_131_188'",
+		"(Denim) '128_192_250'",
+		"(Candy Blue) '131_198_239'",
+		"(Periwinkle) '146_198_255'",
+		"(Blue Jay) '113_184_255'",
+		"(Cornflower) '167_209_255'"
+	],
+	"setRedPalette": [
+		"(Tomato) '206_0_10'",
+		"(Coral) '255_0_32'",
+		"(Poppy) '149_0_0'",
+		"(Cardinal) '189_0_51'",
+		"(Red) '220_0_23'",
+		"(Chinese Red) '155_0_22'",
+		"(Rich Red) '144_0_41'",
+		"(Ruby) '172_6_21'",
+		"(Wine) '102_0_20'",
+		"(Crimson) '116_28_70'",
+		"(Burgundy) '62_14_37'",
+		"(Garnet) '81_19_76'",
+		"(Brick) '77_12_30'"
+	],
+	"setGreenPalette": [
+		"(Juniper) [22_69_45'",
+		"(Forest) '23_63_24'",
+		"(Spruce) '12_72_56'",
+		"(Hunter Green) '13_30_13'",
+		"(Evergreen) '29_56_25'",
+		"(Pesto) '14_82_25'",
+		"(Basil) '37_93_18'",
+		"(Palm) '39_69_18'",
+		"(Peridot) '143_255_55'",
+		"(Parrot) '132_255_56'",
+		"(Cabbage) '167_252_95'",
+		"(Limelight) '164_228_24'"
+	],
+	"setYellowPalette": [
+		"(Meringue) '254_250_196'",
+		"(Butter) '254_227_189'",
+		"(Maize) '254_246_181'",
+		"(Buttercup) '250_231_130'",
+		"(Citrus) '250_237_59'",
+		"(Lemon) '253_229_125'",
+		"(Canary) '254_211_52'",
+		"(Grellow) '241_178_0'",
+		"(Corn Yellow) '253_199_55'"
+	],
+	"output_Text": [
+		"Bertram",
+		"Arabella",
+		"Cecil"
+	]
+}

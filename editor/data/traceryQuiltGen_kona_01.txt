@@ -1,0 +1,49 @@
+#Palette list here:
+Fabric A (Navy) [0, 23, 74]
+Fabric B (Oasis) [37, 156, 192]
+Fabric C (Periwinkle) [146, 198, 255]
+Fabric D (Petal) [255, 178, 255]
+Fabric E (Petal) [255, 178, 255]
+Fabric F (Coral) [255, 0, 32]
+Fabric G (Orange) [255, 96, 42]
+Fabric H (Cedar) [240, 85, 46]
+Fabric I (Curry) [243, 196, 84]
+Fabric J (Emerald) [29, 146, 120]
+Fabric K (Tarragon) [189, 236, 135]
+Fabric L (Parrot) [132, 255, 56]
+
+#How many blocks wide and high here: 
+3x3 
+
+
+[G\D,C/H, 
+L]C, D-D]
+
+[E/F, B\K, J]K, 
+A\E, B/G, C\D, 
+H, F\F, K]K]
+
+[G, K, F]A, 
+L\D, K\D, L-J, 
+F, L\F, J]
+
+
+[C,K, 
+L-F, G\A]
+
+[K\E, L-F, B-E, 
+K\D, C, D\A, 
+J\C, L]D, F]G]
+
+[J]C, C-B, B, 
+E-G, F/J, E]E, 
+I/K, J-E, B/K]
+
+
+[E\G]
+
+[K]E]
+
+[J-G, F, G, 
+B\J, C\G, J, 
+E]K, C/E, I/B]

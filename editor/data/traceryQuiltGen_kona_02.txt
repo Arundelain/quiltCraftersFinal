@@ -1,0 +1,54 @@
+#Palette list here:
+Fabric A (Stratosphere) [106, 228, 249]
+Fabric B (Capri) [134, 255, 202]
+Fabric C (Lagoon) [84, 255, 249]
+Fabric D (Primrose) [252, 187, 221]
+Fabric E (Brick) [77, 12, 30]
+Fabric F (Lipstick) [221, 12, 31]
+Fabric G (Creamsicle) [255, 128, 137]
+Fabric H (Sunny) [255, 174, 48]
+Fabric I (Kumquat) [255, 86, 36]
+Fabric J (Tan) [216, 205, 182]
+Fabric K (Everglade) [35, 133, 136]
+Fabric L (Old Green) [117, 209, 135]
+
+#How many blocks wide and high here: 
+3x4 
+
+
+[G-C, C\B, K/C, 
+H-J, B, L/I, 
+E]D, D/I, E/B]
+
+[E\B, J\K, A]J, 
+E/C, I]I, K]K, 
+D/L, D-H, G]G]
+
+[G\I, G/J, L/D, 
+C-D, G/H, B/H, 
+F/E, H-D, E/I]
+
+
+[D]I,B]B, 
+B]B, G/I]
+
+[B-L]
+
+[L/E,D-A, 
+L/K, I/J]
+
+
+[I]K, D/H, E]C, 
+C\F, L\F, H\L, 
+I, G\J, D]E]
+
+[G/G]
+
+[C]I]
+
+
+[H]
+
+[L]
+
+[K/I]

@@ -1,0 +1,36 @@
+#Palette list here:
+Fabric A (Hyacinth) [78, 124, 255]
+Fabric B (Periwinkle) [146, 198, 255]
+Fabric C (Periwinkle) [146, 198, 255]
+Fabric D (Coral) [255, 0, 32]
+Fabric E (Cardinal) [189, 0, 51]
+Fabric F (Coral) [255, 0, 32]
+Fabric G (Citrus) [250, 237, 59]
+Fabric H (Butter) [254, 227, 189]
+Fabric I (Butter) [254, 227, 189]
+Fabric J (Juniper) [22, 69, 45]
+Fabric K (Peridot) [143, 255, 55]
+Fabric L (Evergreen) [29, 56, 25]
+
+#How many blocks wide and high here: 
+3x2 
+
+
+[H-D]
+
+[B-G, B/A, D\H, 
+F|C, B\L, A|D, 
+K\J, F|B, D\L]
+
+[A,L|E, 
+I, J-A]
+
+
+[I/K,K/F, 
+J|J, B]
+
+[L\J]
+
+[L\G, A|D, C\C, 
+C, F|J, F-B, 
+L\G, B|A, L/A]

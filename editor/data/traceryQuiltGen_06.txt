@@ -1,0 +1,30 @@
+#Palette list here:
+Fabric A (Denim) [128, 192, 250]
+Fabric B (Slate) [92, 131, 188]
+Fabric C (Dresden Blue) [152, 200, 245]
+Fabric D (Crimson) [116, 28, 70]
+Fabric E (Poppy) [149, 0, 0]
+Fabric F (Wine) [102, 0, 20]
+Fabric G (Butter) [254, 227, 189]
+Fabric H (Maize) [254, 246, 181]
+Fabric I (Meringue) [254, 250, 196]
+Fabric J (Pesto) [14, 82, 25]
+Fabric K (Parrot) [132, 255, 56]
+Fabric L (Pesto) [14, 82, 25]
+
+#How many blocks wide and high here: 
+2x2 
+
+
+[J-A,G/F, 
+G, B/D]
+
+[D/E,A-J, 
+J\J, F\H]
+
+
+[I]
+
+[L|C, A\L, G, 
+L-E, B\J, E, 
+C\H, F/A, E\C]

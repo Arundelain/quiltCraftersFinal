@@ -1,0 +1,13 @@
+Fabric R (red) [255,63,63]
+Fabric G (green) [63,255,63]
+Fabric B (blue) [63,63,255]
+Fabric w (white) [255,255,255]
+Fabric l (light gray) [125,125,125]
+Fabric d (dark gray) [63,63,63]
+Fabric b (black) [0,0,0]
+
+3x3
+
+[ R ] [R-G] [ G ]
+[R/B] [B] [B\G]
+[w|l] [l-d] [d|b]

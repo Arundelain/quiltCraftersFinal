@@ -1,0 +1,67 @@
+#Palette list here:
+Fabric A (Brt Peri) [43, 26, 184]
+Fabric B (Copen) [80, 163, 255]
+Fabric C (Raisin) [33, 15, 36]
+Fabric D (Flesh) [255, 195, 231]
+Fabric E (Dusty Peach) [255, 179, 228]
+Fabric F (Brick) [77, 12, 30]
+Fabric G (School Bus) [255, 111, 31]
+Fabric H (Terracotta) [205, 64, 58]
+Fabric I (Orange) [255, 96, 42]
+Fabric J (Charcoal) [30, 38, 49]
+Fabric K (Jade Green) [42, 203, 97]
+Fabric L (Mocha) [83, 48, 50]
+
+#How many blocks wide and high here: 
+4x3 
+
+
+[I|L]
+
+[A\J, K\E, D|D, 
+I, G/K, C-E, 
+A/L, I|F, C-F]
+
+[I, E|K, D\J, G|D, 
+J-I, E/G, J, A, 
+D, J, E\H, E/C, 
+I\F, E\F, F\L, F|B]
+
+[G|G, H\J, K|D, L, 
+A|H, E|L, J\I, F, 
+F/C, D\C, J-G, D\L, 
+L-H, B/E, H, G|D]
+
+
+[J|D, F|G, B/C, F, 
+D\H, F, L, K/E, 
+E|K, G|A, I/A, L, 
+G, C-J, A\I, K|J]
+
+[A, C|H, F/D, L/K, 
+I-E, D|B, L|F, A, 
+H/E, L-I, J, A-H, 
+B/H, G/D, L/B, H/G]
+
+[C/L]
+
+[L-K,C/L, 
+J/I, I|B]
+
+
+[J-I, A\L, E, A/F, 
+I, I, G/H, K/E, 
+H, L|C, K, D, 
+I\D, H\G, I\A, F|E]
+
+[L|J, A|G, E|A, 
+F\H, J-L, J|G, 
+G|B, F\B, D/C]
+
+[B/E, L/H, I\I, H/K, 
+E/J, E|B, B\C, H/B, 
+I, C, H, A, 
+E-G, C\H, D, F\C]
+
+[I|H,B/F, 
+J/L, B\L]

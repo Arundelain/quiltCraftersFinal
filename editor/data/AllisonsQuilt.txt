@@ -1,0 +1,30 @@
+#Add your palette list here:
+
+Fabric R (rose) [185, 119, 128]
+Fabric S (shell) [236, 185, 189]
+Fabric P (pink) [245, 229, 231]
+Fabric N (nautical) [48, 121, 177]
+Fabric B (blue) [135, 187, 230]
+Fabric I (ice blue) [190, 216, 236]
+Fabric C (clover) [114, 173, 147]
+Fabric G (green) [80, 131, 114]
+Fabric M (mint) [201, 226, 214]
+Fabric T (turquoise) [99, 177, 188]
+Fabric O (ocean) [155, 212, 221]
+Fabric W (water color) [225, 241, 239]
+Fabric Y (banana) [250, 225, 149]
+Fabric D (buttercup) [255, 244, 205]
+Fabric X (cream) [255, 248, 237]
+Fabric F (flake) [247,247,245]
+
+#How many blocks wide here:
+3x4
+
+
+
+#block definition here:
+
+[X, Y/D, D, D, Y, X, Y, Y, Y, D, Y, D\Y, D, D, D\X, D/X, Y, D, D, Y, X/D, X\D, D, D, Y\D, Y, D, Y, Y, Y, X, Y, D, D, D/Y, X]	[Y, I, I, I/B, Y, I, I, Y, I/B, B, I, Y, I, I/B, Y, I, B, B/I, I/B, B, I, Y, B/I, I, Y, I, B, B/I, Y, I, I, Y, B/I, I, I, Y]	[I, I/N, I, I\N, I, N\I, I, N/I, I]
+[X, X/D, T\X, X/O, D\X, X, X/D, D, T, T\O, D, D\X, X\N, N/Y, N\W, W/O, W, W/X, X/Y, Y, N/D, D\O, W/O, O\X, X\T, T, N\W, W, T, T/X, X, X\T, N/X, X\W, T/X, X]	[X/B, B\X, D, D, X/B, B\X, X\B, B/X, D\B, B/D, X\B, B/X, D, B\D, X/B, B\X, D/B, D, D, B/D, X\B, B/X, D\B, D, X/B, B\X, D/B, B\D, X/B, B\X, X\B, B/X, D, D, X\B, B/X]	[B, B, T, O, W, T, O, I, I]
+[T, W, T\W, W/T, W, T, W, M\M, M\T, T/M, M/M, W, W\T, T\M, T, T, M/T, T/W, W/T, T/M, T, T, M\T, T\W, W, M/M, M/T, T\M, M\M, W, T, W, T/W, W\T, W, T]	[F/P, P\F, F/D, D\F, F/P, P\F, F\P, P/F, F\D, D/F, F\P, P/F, F/D, D\F, F/S, S\F, F/D, D\F, F\D, D/F, F\S, S/F, F\D, D/F, F/P, P\F, F/D, D\F, F/P, P\F, F\P, P/F, F\D, D/F, F\P, P/F]	[O\P, P\F, F/O, P\F, F/O, O/P, F\O, W, O/F, W\P, W, P/F, F/P, P/W, W\F, W/F, F\O, O\F, F\O, O\F, F/W, F\W, W/O, O/F, F/P, W, P\W, F/O, W, O\F, P/O, O/F, F\P, O/F, F\P, P\O]
+[R, R, S, S, R, R, R, S, P, P, S, R, S, P, S/R, P\S, P, S, S, P, S\P, R/S, P, S, R, S, P, P, S, R, R, R, S, S, R, R]	[S/P, S/P, S, S/P, P, P/S, S, P/S, P/S]	[S, P, S, O/T, O, T\O, P, S, P, O, T, O, S, P, S, O\T, O, T/O, O/T, O, T\O, S, P, S, O, T, O, P, S, P, O\T, O, T/O, S, P, S]

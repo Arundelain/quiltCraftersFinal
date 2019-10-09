@@ -1,0 +1,57 @@
+#Palette list here:
+Fabric A (Robin Egg) [125, 255, 231]
+Fabric B (Marine) [0, 30, 165]
+Fabric C (Cadet) [33, 79, 150]
+Fabric D (Watermelon) [255, 41, 119]
+Fabric E (Coral) [255, 0, 32]
+Fabric F (Ballerina) [234, 161, 253]
+Fabric G (Gold) [191, 105, 50]
+Fabric H (Terracotta) [205, 64, 58]
+Fabric I (Sunflower) [249, 236, 137]
+Fabric J (Titanium) [146, 187, 190]
+Fabric K (Ivy) [95, 144, 53]
+Fabric L (Pear) [131, 255, 99]
+
+#How many blocks wide and high here: 
+3x4 
+
+
+[K-K,D]F, 
+G-H, J]L]
+
+[G-I,F\L, 
+A/F, C/A]
+
+[C\E,A, 
+C-K, C\A]
+
+
+[L/J, L]D, A-L, 
+D/C, E]H, G\C, 
+E, F/H, I]D]
+
+[F-C, D-C, F, 
+G\D, C-A, L\J, 
+C\C, A-K, E]D]
+
+[D-L, E-C, J]I, 
+E-F, K-J, E, 
+J, H]E, H\F]
+
+
+[C-I,I/A, 
+E\H, K/K]
+
+[I]
+
+[J\H]
+
+
+[D, G/C, I-K, 
+J-B, A]A, J-G, 
+G-A, J-C, E/C]
+
+[K,C\F, 
+G-E, A\H]
+
+[F/D]

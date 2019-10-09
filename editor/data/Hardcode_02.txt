@@ -1,0 +1,43 @@
+#Palette list here:
+Fabric A (Pacific) [0, 45, 193]
+Fabric B (Blue) [209, 247, 255]
+Fabric C (Mulberry) [61, 23, 172]
+Fabric D (Honeysuckle) [220, 30, 159]
+Fabric E (Rose) [230, 110, 208]
+Fabric F (Brt Pink) [255, 51, 255]
+Fabric G (Butter) [254, 227, 189]
+Fabric H (Kumquat) [255, 86, 36]
+Fabric I (Sunny) [255, 174, 48]
+Fabric J (Honey) [199, 166, 109]
+Fabric K (Herb) [151, 171, 113]
+Fabric L (Breakers) [68, 244, 196]
+
+#How many blocks wide and high here: 
+2x4 
+
+
+[C-L]
+
+[G|H, H-C, D\A, 
+D|L, I|J, I, 
+D-H, K-A, I|D]
+
+
+[I-D,A-B, 
+H, K\B]
+
+[H-K]
+
+
+[K|C,J\J, 
+A-G, D]
+
+[E-F,A, 
+I|B, I]
+
+
+[A-H,E|L, 
+H, D\H]
+
+[J-E,G, 
+B-F, L\D]
